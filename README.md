@@ -113,7 +113,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Draxlion&show_icons=true&theme=moltack&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Draxlion&show_icons=true&theme=buefy&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
@@ -121,7 +121,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxlion&theme=moltack&customtitle=Tecnologias"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxlion&theme=buefy&customtitle=Tecnologias"
   />
 
 </p>
